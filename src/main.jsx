@@ -94,10 +94,10 @@ function App() {
           <div className="navActions">
 
             <a
-              href="mailto:your.email@example.com"
+              href="mailto:muntasirahmed1212@gmail.com"
               aria-label="Email"
             >
-              <Mail size={18} />
+            <Mail size={18} />
             </a>
 
             <button
@@ -409,11 +409,7 @@ function App() {
           id="contact"
           className="contact"
         >
-  <h2>Contact Me</h2>
-  <p>Feel free to get in touch with me.</p>
-  <a href="mailto:muntasirahmed1212@gmail.com">
-    muntasirahmed1212@gmail.com
-  </a>
+
           <div className="wrap contactInner">
 
             <div>
@@ -432,10 +428,10 @@ function App() {
               <div className="contactLinks">
 
                 <a
-                  href="mailto:your.email@example.com"
+                  href="mailto:muntasirahmed1212@gmail.com"
                 >
-                  <Mail />
-                  your.email@example.com
+               <Mail />
+                 muntasirahmed1212@gmail.com
                 </a>
 
 
