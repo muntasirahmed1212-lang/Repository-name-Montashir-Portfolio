@@ -85,8 +85,7 @@ function App() {
             ].map(([id, title]) => (
               <button
                 key={id}
-                onClick={() => nav(id)}
-              >
+                onClick={() => nav(id)}>
                 {title}
               </button>
             ))}
@@ -410,7 +409,11 @@ function App() {
           id="contact"
           className="contact"
         >
-
+  <h2>Contact Me</h2>
+  <p>Feel free to get in touch with me.</p>
+  <a href="mailto:muntasirahmed1212@gmail.com">
+    muntasirahmed1212@gmail.com
+  </a>
           <div className="wrap contactInner">
 
             <div>
